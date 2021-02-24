@@ -3,7 +3,7 @@ title: "Meddy"          # Same as repo name but with spaces and caps
 client: "Voorhoede"           # Name of the client for this task
 description: "short description"    # Max. 280 characters in description
 semester: 4                       # Please choose only one semester
-sprint: 18                        # Please choose only one sprint
+sprint: 19                        # Please choose only one sprint
 support-level: 5                  # 1:example 2:duplicate 3:experiment 4:extension 5:autonomous
 behavior-criteria:                  # These criteria determine the skill level of a task
   collaboration: 6                # compared to the whole curriculum on a 6 point scale.
